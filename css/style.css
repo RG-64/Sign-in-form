@@ -106,6 +106,7 @@ color:white;
  }
 
  #shadow{
-  width:max-content
-  box-shadow:0px 5px rgba(0,0,0,10%);
+  display:flex;
+  width:max-content;
+  box-shadow:0px 5px 5px rgba(0,0,0,10%);
  }
